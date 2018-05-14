@@ -1,0 +1,36 @@
+body
+{
+	background: orange;
+
+
+}
+
+
+/*Footer ......*/
+
+footer{
+	background: #FDFEFE;
+	text-align: center;
+}
+
+
+
+
+ul.redes li
+{
+	display: inline-block;
+}
+ul.redes li a
+{
+	color: orange;
+}
+
+.avatar
+{
+	border: 5px solid orange;
+	border-radius: 50%;
+	float: left;
+	height: 100px;
+	width: 100px;
+}
+
